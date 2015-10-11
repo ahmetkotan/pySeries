@@ -1,4 +1,6 @@
 # pySeries
+[http://ahmetkotan.com.tr/category/programlama/python/pyseries/](http://ahmetkotan.com.tr/category/programlama/python/pyseries/)
+
 * [(Python) Pip nedir ?](http://ahmetkotan.com.tr/2014/09/python-pip-nedir/)
 * [Python’da Manuel Olarak Modül Kurmak](http://ahmetkotan.com.tr/2014/09/pythonda-manuel-olarak-modul-kurmak/)
 * [Python Socket Programlama](http://ahmetkotan.com.tr/2014/09/python-socket-programlama/) / [sunucu.py](https://github.com/ahmetkotan/pySeries/blob/master/sunucu.py), [istemci.py](https://github.com/ahmetkotan/pySeries/blob/master/istemci.py)

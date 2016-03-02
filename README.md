@@ -10,3 +10,4 @@ Yazı Serisi: [http://ahmetkotan.com.tr/category/programlama/python/pyseries/](h
 * [Python Arayüz Programlama (QT Kurulumu – 0)](http://ahmetkotan.com.tr/2014/10/python-arayuz-programlama-qt-kurulumu-0/)
 * [QT Proje ve Pencere Oluşturma (QT - 1)](http://ahmetkotan.com.tr/2014/10/qt-proje-ve-pencere-olusturma-qt-1/) / [qt1.py](https://github.com/ahmetkotan/pySeries/blob/master/qt1.py), [qt1.ui](https://github.com/ahmetkotan/pySeries/blob/master/qt1.ui)
 * [QT Designer Kullanımı ve Mantığı (QT – 2)](http://ahmetkotan.com.tr/2015/10/qt-designer-kullanimi-ve-mantigi-qt-2/) / [qt2.ui](https://github.com/ahmetkotan/pySeries/blob/master/qt2.ui)
+* [PyQT Fonksiyon Yazmak ve Çağırmak (QT – 3)](http://ahmetkotan.com.tr/2016/03/pyqt-fonksiyon-yazmak-ve-cagirmak-qt-3/) / [qt3.py](https://github.com/ahmetkotan/pySeries/blob/master/qt3.py), [qt3.ui](https://github.com/ahmetkotan/pySeries/blob/master/qt3.ui)
